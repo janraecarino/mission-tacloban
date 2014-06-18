@@ -15,3 +15,99 @@
 
 /* 16.1. Overrided elements
 ==================================== */
+
+.gk-page {
+	padding: 0 30px;
+}
+
+
+/*banner*/
+
+#gk-banner-top {
+	margin: 0 120px 0;
+}
+
+/*menu*/
+
+#main-menu > li {
+	font-weight: 700;
+	font-size: 16px;
+}
+
+#gk-mainbody-columns.gk-inset-left > aside {
+	padding: 0 50px 0 0
+}
+
+/* userarea */
+
+#gk-user-area {
+	margin: 40px 10px 0 0;
+}
+
+#gk-user-area .gk-icon-arrow {
+	font-size: 24px;
+	margin-left: 30px;
+	float: right;
+}
+
+#gk-user-area a {
+	float: none;
+	font-size: 20px;
+	height: 50px;
+}
+
+/* inset */
+
+#gk-mainbody-columns.gk-inset-left > aside {
+	padding: 0;
+}
+
+#gk-inset .box-title {
+	font-size: 14px;
+	line-height: 30px;
+	font-weight: 700px;
+	color: #eb1c24;
+	text-transform: capitalize;
+	padding: 0 0 10px;
+}
+
+#gk-inset b {
+	color: #343434;
+}
+
+#gk-inset .box, #gk-sidebar .box {
+	border: none;
+	padding: 40px 0;
+}
+
+
+
+/*content wrap*/
+#gk-mainbody-columns.gk-inset-left > section {
+	padding-left: 30px;
+}
+
+/*sidebar*/
+#gk-content-wrap + aside {
+	padding: 0 0 0 30px;
+}
+
+/*search*/
+
+#gk-search #s {
+	border-bottom-color: #fff;
+	color: #fff;
+}
+/*home*/
+#post-241 header h1 {
+	display: none;
+}
+
+#post-241 footer {
+	display:none;
+}
+
+/*footer*/
+#gk-footer {
+	padding: 0 30px;
+}

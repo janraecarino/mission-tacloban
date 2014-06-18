@@ -19,7 +19,7 @@
 			<?php gavern_menu('footermenu', 'gk-footer-menu'); ?>
 			
 			<div class="gk-copyrights">
-				Free <a href="http://www.gavick.com/wordpress-themes.html" title="WordPress Themes">WordPress Theme</a> designed by <a href="http://www.gavick.com">GavickPro</a>
+				<p>Copyright 2014. Mission Tacloban. All Rights Reserved.</p>
 			</div>
 			
 			<?php if(get_option($tpl->name . '_template_footer_logo', 'Y') == 'Y') : ?>

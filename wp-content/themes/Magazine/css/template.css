@@ -540,11 +540,11 @@ body[data-position="left"] .gk-page {
 
 #gk-head h1 a {
 	height: 35px;
-	margin: 5px 30px 0 0;
+	margin: 0px 30px 0 0;
 	padding: 0;
 	text-indent: -999em;
 	text-shadow: none;
-	width: 140px;
+	width: 120px;
 	display: block;
 	float: left;
 	-webkit-transition: background-color .3s linear;
@@ -757,7 +757,7 @@ body.admin-bar #gk-toolbar {
 }
 
 .gk-color-2 {
-	background: #7065ff;
+	background: #EB1C24;
 }
 
 .gk-color-3 {

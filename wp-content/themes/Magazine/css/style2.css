@@ -18,7 +18,7 @@
 
 article a,
 article a {
-	color: #7065ff;
+	color: #EB1C24;
 }
 a:active,
 a:focus,
@@ -38,7 +38,7 @@ article header .bookmark a:hover,
 #gk-mainbody article > header h2 a:focus,
 #gk-mainbody article > header h1 a:hover,
 #gk-mainbody article > header h2 a:hover {
-	color: #7065ff;
+	color: #EB1C24;
 }
 .btn,
 button,
@@ -47,7 +47,7 @@ a.gk-button,
 input[type="button"],
 input[type="submit"],
 .nav-btn a {
-	background-color: #7065ff;
+	background-color: #EB1C24;
 }
 .btn:hover,
 .btn:active,
@@ -77,7 +77,7 @@ a.gk-button[disabled],
 	background-color: #feb54d;
 }
 .btn-more {
-	background-color: #7065ff;
+	background-color: #EB1C24;
 }
 .btn-more:active,
 .btn-more:focus,
@@ -90,33 +90,33 @@ a.gk-button[disabled],
 	background-color: #feb54d;
 }
 #gk-head a.cssLogo {
-	background-color: #7065ff
+	background-color: #EB1C24
 }
 #gk-head a.cssLogo:hover {
 	background-color: #feb54d;
 }
 #gk-head a.textLogo {
-	background: #7065ff;
+	background: #EB1C24;
 }
 #gk-back-to-top:hover,
 #gk-toolbar a.gk-icon-search:hover,
-#gk-toolbar a.gk-icon-email:hover { background: #7065ff; }
+#gk-toolbar a.gk-icon-email:hover { background: #EB1C24; }
 #gk-search form {
-	background-color: #7065ff;
+	background-color: #4d90fe;
 }
 #gk-search #s {
-	background: #7065ff;
-	border-bottom-color: #8b81ff;
+	background: #4d90fe;
+	border-bottom-color: #242424;
 }
 #main-menu a:hover,
 #main-menu a:active,
 #main-menu a:focus,
 #main-menu li.active > a {
-	color: #7065ff;
+	color: #EB1C24;
 }
 #main-menu.menu-lvl-1 li .sub-menu,
 #main-menu.menu-lvl-2 li li .sub-menu {
-	background: #7065ff;
+	background: #EB1C24;
 }
 #main-menu.menu-lvl-1 li .sub-menu li,
 #main-menu.menu-lvl-2 li li .sub-menu li {
@@ -134,7 +134,7 @@ article.sticky header h2 sup {
 }
 .contactpage .gk-contact-error,
 .contactpage .gk-contact-thanks {
-	background: #7065ff;
+	background: #EB1C24;
 }
 .contactpage .gk-contact-error {
 	background: #ff7465;
@@ -143,7 +143,7 @@ article.sticky header h2 sup {
     background: #feb54d;
 }
 #gk-popup-login .button-primary:hover { 
-    background: #7065ff;
+    background: #EB1C24;
 }
 .box #wp-calendar #today {
 	background: #feb54d;
@@ -154,10 +154,10 @@ article.sticky header h2 sup {
 .box.tags .tagcloud a:active,
 .box.tags .tagcloud a:focus,
 .box.tags .tagcloud a:hover {
-	background: #7065ff;
+	background: #EB1C24;
 }
 .box.color1 {
-	background: #7065ff!important;
+	background: #EB1C24!important;
 }
 .box.color1 ul li {
 	border-bottom: 1px solid #8b81ff;
@@ -166,32 +166,32 @@ article.sticky header h2 sup {
 	color: #d1cdff;
 }
 .box.color2 .box-title {
-	color: #7065ff;
+	color: #EB1C24;
 }
 .box.menu li:hover {
-	background: #7065ff;
+	background: #EB1C24;
 }
 
 .gk-nsp-arts-nav li:hover,
 .gk-nsp-arts-nav li.active,
 .gk-nsp-links-nav li:hover,
 .gk-nsp-links-nav li.active {
-	background: #7065ff;
+	background: #EB1C24;
 }
 .gk-nsp-header a:active,
 .gk-nsp-header a:focus,
 .gk-nsp-header a:hover {
-	color: #7065ff
+	color: #EB1C24
 }
 .gk-nsp-art .gk-nsp-info a:active,
 .gk-nsp-art .gk-nsp-info a:focus,
 .gk-nsp-art .gk-nsp-info a:hover {
-	color: #7065ff;
+	color: #EB1C24;
 }
 .gk-nsp-links ul li h4 a:active,
 .gk-nsp-links ul li h4 a:focus,
 .gk-nsp-links ul li h4 a:hover {
-	color: #7065ff;
+	color: #EB1C24;
 }
 .color1 .gk-nsp-art p.gk-nsp-info,
 .color1 .gk-nsp-art p.gk-nsp-info a,
@@ -204,17 +204,17 @@ article.sticky header h2 sup {
 	background: #d1cdff; 
 }
 .headlines .gk-nsp-new-wrap {
-	background-color: #7065ff;
+	background-color: #EB1C24;
 }
 .nsphover .gk-image-link .gk-nsp-header {
-	background: #7065ff;
+	background: #EB1C24;
 	background: rgba(112, 101, 255, 0.85);
 }
 .nsphover .gk-nsp-art .gk-nsp-category {
 	background: #feb54d;
 }
 .nsphover .gk-nsp-hover-overlay {
-	background: #7065ff;
+	background: #EB1C24;
 }
 .nsphover .gk-nsp-hover-overlay .gk-nsp-text,
 .nsphover .gk-nsp-hover-overlay .gk-nsp-text a {
@@ -231,7 +231,7 @@ article.sticky header h2 sup {
 	border-color: #feb54d!important;
 }
 .gk-tabs-wrap > ol li:hover {
-	color: #7065ff;
+	color: #EB1C24;
 }
 
 /* Typography */
@@ -244,7 +244,7 @@ article.sticky header h2 sup {
 	background: #feb54d;
 }
 .gk-tooltip[data-style="style2"] dfn {
-	background: #7065ff;
+	background: #EB1C24;
 }
 .gk-tooltip[data-style="style3"] dfn {
 	background: #ff7465;	
@@ -253,7 +253,7 @@ article.sticky header h2 sup {
 	background: #feb54d;
 }
 .gk-notice {
-	background: #7065ff url('../images/style2/typography/tips.png') no-repeat 6px 10px;
+	background: #EB1C24 url('../images/style2/typography/tips.png') no-repeat 6px 10px;
 }
 .gk-info {
 	background: #feb54d url('../images/style2/typography/info.png') no-repeat 6px 8px;
@@ -266,7 +266,7 @@ article.sticky header h2 sup {
 .gk-label,
 .gk-badge[data-style="style1"],
 .gk-label[data-style="style1"] {
-	background-color: #7065ff;
+	background-color: #EB1C24;
 }
 .gk-badge[data-style="style2"],
 .gk-label[data-style="style2"] {
@@ -277,17 +277,17 @@ article.sticky header h2 sup {
 	background: #ff7465;
 }
 pre.gk-code[data-style="style2"] {
-	border-left: 4px solid #7065ff;
+	border-left: 4px solid #EB1C24;
 }
 pre.gk-code[data-style="style3"] {
 	border-top: 4px solid #feb54d;
 }
 .gk-numblock[data-style="style3"] span {
-	border: 2px solid #7065ff;
-	color: #7065ff;
+	border: 2px solid #EB1C24;
+	color: #EB1C24;
 }
 .gk-floated {
-	color: #7065ff;
+	color: #EB1C24;
 }
 blockquote.gk-quote {
 	background-image: url('../images/style2/typography/open1.png');
@@ -330,7 +330,7 @@ article ul[data-style="style4"] li {
 .gk-button[data-style="style2"]:active,
 .gk-button[data-style="style2"]:focus,
 .gk-button[data-style="style2"]:hover {
-	background: #7065ff;
+	background: #EB1C24;
 }
 .gk-button[data-style="style3"] {
 	background: #ff7465;
@@ -349,10 +349,10 @@ article ul[data-style="style4"] li {
 	background: #feb54d;
 }
 .gk-legend {
-	border: 2px solid #7065ff;
+	border: 2px solid #EB1C24;
 }
 .gk-legend > strong:first-child {
-	color: #7065ff;
+	color: #EB1C24;
 }
 .gk-legend[data-style="style2"] {
 	border-color: #feb54d;
@@ -365,7 +365,7 @@ article ul[data-style="style4"] li {
 
 #gallery ol li:hover,
 #gallery ol li.active {
-	background: #7065ff;
+	background: #EB1C24;
 }
 #main-menu-mobile {
 	background-image: url('../images/style2/tablet_menu.png');

@@ -94,16 +94,17 @@
 			</div>
 			<?php endif; ?>
 			
-			<?php if((!is_user_logged_in() && get_option($tpl->name . '_reg_link', 'Y') == 'Y') || get_option($tpl->name . '_login_link', 'Y') == 'Y') : ?>
+			
 			<div id="gk-user-area">
-				<?php if(get_option($tpl->name . '_login_link', 'Y') == 'Y') : ?>
-				<a href="<?php echo get_option($tpl->name . '_login_url', 'wp-login.php?action=login'); ?>" <?php if(get_option($tpl->name . '_login_popup_state', 'Y') == 'Y') : ?>id="gk-login"<?php endif; ?>><?php (!is_user_logged_in()) ? _e('Login', GKTPLNAME) : _e('Logout', GKTPLNAME); ?><i class="gk-icon-arrow"></i></a>
+				<?php if(get_option($tpl->name . '_donate_link', 'Y') == 'Y') : ?>
+				<a href="<?php echo get_option($tpl->name . '_donate_url', '#'); ?>" id="gk-donate"><?php (!is_user_logged_in()) ? _e('Donate', GKTPLNAME) : _e('Donate', GKTPLNAME); ?><i class="gk-icon-arrow"></i></a>
+				<?php endif; ?>
+                
+                <?php if(get_option($tpl->name . '_volunteer_link', 'Y') == 'Y') : ?>
+				<a href="<?php echo get_option($tpl->name . '_volunteer_url', '#'); ?>" id="gk-volunteer"><?php (!is_user_logged_in()) ? _e('Volunteer', GKTPLNAME) : _e('Volunteer', GKTPLNAME); ?><i class="gk-icon-arrow"></i></a>
 				<?php endif; ?>
 				
-				<?php if(!is_user_logged_in() && get_option($tpl->name . '_reg_link', 'Y') == 'Y') : ?>
-				<a href="<?php echo get_option($tpl->name . '_reg_url', '#'); ?>" id="gk-register"><?php _e('Register', GKTPLNAME); ?><i class="gk-icon-arrow"></i></a>
-				<?php endif; ?>
-			</div>
-			<?php endif; ?>
-		</div>
+				
+			</div>					
+         </div>
 	</header>
